@@ -1,6 +1,6 @@
 # Hey, I'm Daniel 👋
 
-**Full Stack Developer** · Greater Toronto Area · Available for contract work
+**Full Stack Developer** · Greater Toronto Area
 
 ---
 
