@@ -28,6 +28,6 @@ I build fast, secure, and tightly engineered web experiences. My background span
 
 ## A Bit More
 
-When I'm not in the terminal, I collect and tear down **Casio & G-Shock watches** (JDM models, module variations); The same way I approach code: take it apart, understand it, put it back together better.
-
+Outside of code, I've been going deep on **aroma chemicals** which are the molecular building blocks behind fragrance. Less lifestyle, more the actual compounds: diffusion behavior, tenacity curves, 
+concentration thresholds.
 
